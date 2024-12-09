@@ -30,7 +30,7 @@ apt install yara
 ```
 
 ### On Windows
-1. Visit the [YARA Official GitHub Page](https://github.com/VirusTotal/yara).
+1. Visit the [YARA Official GitHub Page](https://github.com/VirusTotal/yara/releases).
 2. Download the latest release of YARA.
 3. Extract the downloaded file and follow the instructions provided in the repository to set it up.
 
@@ -40,5 +40,8 @@ apt install yara
 
 For a detailed explanation in simple terms, watch this video:  
 [Understanding YARA - YouTube](https://youtu.be/LQnfjwAgCnE?si=RjLIZYNzz3XwAVHt)
+
+**Disclaimer:** This video is not my creation. It is a publicly available resource created by its respective author.
+
 
 ---
