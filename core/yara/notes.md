@@ -1,3 +1,5 @@
+#About YARA
+
 >YARA is a rule-based language used for identifying and classifying malware samples
 based on patterns
 
@@ -8,13 +10,11 @@ strings:
 condition:
 }
 
-Installation-
+#Installation-
 
-linux-- apt install yara
+>linux-- apt install yara
 
-windows-- visit yara official github page. Download yara from there and extract it
-
-
+>windows-- visit yara official github page. Download yara from there and extract it
 
 
 This video acutually has detailed explanation in simple terms.
