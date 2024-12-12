@@ -66,6 +66,7 @@ An **IP address** is a unique identifier assigned to devices connected to a netw
 ### 4. **Subnetting**:
 - Divides an IP network into smaller segments to improve management and efficiency.
 - Subnet mask: Defines network and host portions of an IP (e.g., `255.255.255.0` for `/24`).
+- Calculating subnets -- determine class and then according to default subnet take host bits(n) , 2<sup>n</sup> and remaining host bits(m), 2<sup>m-2</sup>.
 
 ---
 
